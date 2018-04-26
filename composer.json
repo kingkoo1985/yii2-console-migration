@@ -1,5 +1,5 @@
 {
-	"name" : "kingkoo/yii2-console-migration",
+	"name" : "kingkoo1985/yii2-console-migration",
 	"description" : "yii2命令行中使用migration备份和还原数据库",
 	"type" : "yii2-extension",
 	"keywords" : [
@@ -16,7 +16,7 @@
 	"minimum-stability" : "stable",
 	"autoload" : {
 		"psr-4" : {
-			"kingkoo\\migration\\" : ""
+			"kingkoo1985\\migration\\" : ""
 		}
 	}
 }
